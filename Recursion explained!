@@ -1,0 +1,8 @@
+Recursion is a process where a function calls itself in order to solve problems. However, at some point, we need to stop that function using a condition that is suitable for our task. 
+This condition is known as the BASE case. 
+The term "base" suggests that it serves as a foundational value for the recursion to halt.
+
+Recursion works similarly to a recursive sequence, where the value or output for a given input depends on the previous output. 
+For example, the Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, typically starting with 0 and 1: 0, 1, 1, 2, 3, 5, 8, ...
+
+The same principle applies to other recursive processes such as calculating factorials or sums of sequences of numbers.
